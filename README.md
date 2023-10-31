@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Image](Ekran Resmi 2023-10-28 21.49.11.png)
+![image](Ekran Resmi 2023-10-28 21.49.11.png)
 
 ## Installation
 ------------------------------------------------------
