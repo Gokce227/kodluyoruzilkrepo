@@ -30,6 +30,11 @@ nav ul li{
      font-size: 25px;
 }
 
+nav ul li a{
+     color: white;
+     text-decoration: none;
+}
+
 section ol {
      position: absolute;
      top: 200px;
@@ -42,6 +47,10 @@ section ol li{
      justify-content: space-around;
      margin: 50px 0;
      background-color: black;
+}
+
+nav .active{
+     color: red;
 }
 
 
